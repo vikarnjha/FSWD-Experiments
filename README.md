@@ -8,6 +8,8 @@ List of Experiments:
 Objective:
 Understand the fundamental structure of an HTML document.
 2. Designing interactive web pages using CSS
+Objective:
+Use CSS to enhance the appearance of web pages.
 3. Implementing dynamic object Manipulations with events using Java Script.
 4. Implementing client side scripting using JavaScript.
 5. Applying animations using JQuery.
