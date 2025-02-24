@@ -23,6 +23,7 @@ Use jQuery to apply animations.
 Objective:
 Use AJAX to fetch data without reloading the page.
 7. Working with REACT JS for developing component based user interface.
+
 8. Design web applications with dynamic routing using Node JS and Express Framework.
 Objective:
 Create an Express server with dynamic routes.
