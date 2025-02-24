@@ -14,6 +14,8 @@ Use CSS to enhance the appearance of web pages.
 Objective:
 Understand how to manipulate DOM elements using JavaScript events.
 4. Implementing client side scripting using JavaScript.
+Objective:
+Validate user input using JavaScript.
 5. Applying animations using JQuery.
 6. Working with asynchronous client, server and data storage interactions using AJAX.
 7. Working with REACT JS for developing component based user interface.
