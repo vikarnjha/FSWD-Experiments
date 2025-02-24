@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Animation</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <button id="fade">Fade Out</button>
+    <p id="text">Hello, this is an animated text.</p>
+
+    <script>
+        $(document).ready(function(){
+            $("#fade").click(function(){
+                $("#text").fadeOut();
+            });
+        });
+    </script>
+</body>
+</html>
