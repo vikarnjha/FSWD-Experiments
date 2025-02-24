@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AJAX Example</title>
+    <script>
+        function loadData() {
+            let xhr = new XMLHttpRequest();
+            xhr.open("GET", "https://jsonplaceholder.typicode.com/posts/1", true);
+            xhr.onload = function() {
+                if (xhr.status == 200) {
+                    document.getElementById("data").innerHTML = xhr.responseText;
+                }
+            };
+            xhr.send();
+        }
+    </script>
+</head>
+<body>
+    <button onclick="loadData()">Load Data</button>
+    <p id="data"></p>
+</body>
+</html>
