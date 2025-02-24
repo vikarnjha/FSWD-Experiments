@@ -20,6 +20,8 @@ Validate user input using JavaScript.
 Objective:
 Use jQuery to apply animations.
 6. Working with asynchronous client, server and data storage interactions using AJAX.
+Objective:
+Use AJAX to fetch data without reloading the page.
 7. Working with REACT JS for developing component based user interface.
 8. Design web applications with dynamic routing using Node JS and Express Framework.
 9. Develop a three tier web application model and data manipulations using Node JS, Express and
