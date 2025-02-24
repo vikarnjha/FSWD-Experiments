@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.user-card {
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
