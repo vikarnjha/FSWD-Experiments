@@ -17,6 +17,8 @@ Understand how to manipulate DOM elements using JavaScript events.
 Objective:
 Validate user input using JavaScript.
 5. Applying animations using JQuery.
+Objective:
+Use jQuery to apply animations.
 6. Working with asynchronous client, server and data storage interactions using AJAX.
 7. Working with REACT JS for developing component based user interface.
 8. Design web applications with dynamic routing using Node JS and Express Framework.
