@@ -28,3 +28,5 @@ Objective:
 Create an Express server with dynamic routes.
 9. Develop a three tier web application model and data manipulations using Node JS, Express and
 MongoDB.
+Objective:
+Create a full-stack application with a database connection.
