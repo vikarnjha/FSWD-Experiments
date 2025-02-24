@@ -11,6 +11,8 @@ Understand the fundamental structure of an HTML document.
 Objective:
 Use CSS to enhance the appearance of web pages.
 3. Implementing dynamic object Manipulations with events using Java Script.
+Objective:
+Understand how to manipulate DOM elements using JavaScript events.
 4. Implementing client side scripting using JavaScript.
 5. Applying animations using JQuery.
 6. Working with asynchronous client, server and data storage interactions using AJAX.
