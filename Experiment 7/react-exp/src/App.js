@@ -4,8 +4,9 @@ import "./App.css";
 
 function App() {
   const users = [
-    { name: "Vikarn Jha", email: "vikarnjha91gmail.com" },
-    { name: "Anupam Kumar", email: "360anupamkrgmail.com" },
+    { name: "John Doe", email: "john.doe@example.com" },
+    { name: "Alice Johnson", email: "alice.johnson@example.com" },
+    { name: "Charlie Brown", email: "charlie.brown@example.com" },
   ];
 
   return (
